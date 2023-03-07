@@ -1,0 +1,24 @@
+{
+    "projects": [
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure consectetur laborum, at quidem minima amet ipsa quo reprehenderit voluptatum nemo aliquam officia quasi sed ipsam placeat. Pariatur consequuntur veniam illo explicabo, inventore molestias! Blanditiis at laudantium nesciunt repellendus sint eveniet doloremque qui harum sed dolorem aliquam sit, distinctio asperiores amet.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure consectetur laborum, at quidem minima amet ipsa quo reprehenderit voluptatum nemo aliquam officia quasi sed ipsam placeat. Pariatur consequuntur veniam illo explicabo, inventore molestias! Blanditiis at laudantium nesciunt repellendus sint eveniet doloremque qui harum sed dolorem aliquam sit, distinctio asperiores amet.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure consectetur laborum, at quidem minima amet ipsa quo reprehenderit voluptatum nemo aliquam officia quasi sed ipsam placeat. Pariatur consequuntur veniam illo explicabo, inventore molestias! Blanditiis at laudantium nesciunt repellendus sint eveniet doloremque qui harum sed dolorem aliquam sit, distinctio asperiores amet.",
+            "image": "images/fingerprint.svg"
+        },
+        {
+            "title": "Farm Land 1",
+            "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure consectetur laborum, at quidem minima amet ipsa quo reprehenderit voluptatum nemo aliquam officia quasi sed ipsam placeat. Pariatur consequuntur veniam illo explicabo, inventore molestias! Blanditiis at laudantium nesciunt repellendus sint eveniet doloremque qui harum sed dolorem aliquam sit, distinctio asperiores amet.",
+            "image": "images/fingerprint.svg"
+        }
+    ]
+}
